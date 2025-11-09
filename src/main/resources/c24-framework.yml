@@ -1,0 +1,4 @@
+c24:
+    build:
+        project:
+            key: test-c24-boot-2.0

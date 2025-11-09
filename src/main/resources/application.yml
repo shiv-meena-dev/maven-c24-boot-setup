@@ -1,0 +1,16 @@
+spring:
+    application:
+        name: test-c24-boot-2.0
+
+c24:
+    errors:
+        enabled: true
+    events:
+        enabled: true
+    swagger:
+        title: My App API
+        version: 1.0
+    logging:
+        format:
+            json:
+                enabled: true
